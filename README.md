@@ -1,4 +1,4 @@
-# College_Inquiry_Chatbot
+# COLLEGE INQUIRY CHATBOT:
 # Implementation of a Contextual Chatbot in PyTorch.  
 Simple chatbot implementation with PyTorch. 
 
